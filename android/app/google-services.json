@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702327087983",
+    "project_id": "jobbie-f2ef7",
+    "storage_bucket": "jobbie-f2ef7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702327087983:android:fee068bafe5c366138be9a",
+        "android_client_info": {
+          "package_name": "com.example.jobbi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYBg8eFA0WZ9E5_Yo_c4fjC52pXIx5Mxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702327087983:android:ec7b592b9934703b38be9a",
+        "android_client_info": {
+          "package_name": "com.sihlekambula.jobbie_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYBg8eFA0WZ9E5_Yo_c4fjC52pXIx5Mxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
