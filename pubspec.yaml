@@ -1,6 +1,6 @@
 name: jobbie_mobile
 description: "A new Flutter project."
-publish_to: 'none'
+publish_to: "none"
 version: 0.1.0
 
 environment:
@@ -12,6 +12,9 @@ dependencies:
   firebase_core: ^3.8.1
   cloud_firestore: ^5.5.1
   firebase_auth: ^5.3.4
+  google_fonts: ^6.2.1
+  hugeicons: ^0.0.7
+  modal_bottom_sheet: ^3.0.0
 
 dev_dependencies:
   flutter_test:
